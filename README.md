@@ -22,17 +22,11 @@ Input Validation: Implements input handling and validation to prevent invalid us
 
 Interactive CLI: Provides a menu-driven interface for accessing the application's functionality.
 
-Technical Implementation
+Programming Language:
 
-Component
+Java 
 
-Technology
-
-Programming Language
-
-Java 27
-
-Development Environment
+Development Environment:
 
 IntelliJ IDEA
 
